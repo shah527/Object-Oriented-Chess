@@ -1,2 +1,2 @@
 # Object-Oriented-Chess
-Chess game implementation in C++ with object oriented design 
+Simple modular chess game implementation in C++ with object oriented design (trying to follow SOLID...)
